@@ -8,10 +8,17 @@
 
 
     <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_gravity="center"
+        android:layout_width="410dp"
+        android:layout_height="400dp"
         android:background="@drawable/amg3" />
+
+    <TextView
+        android:layout_width="360dp"
+        android:layout_height="330dp"
+        android:text="ciabhsv;vdvkd;acnihvdhvondn dodijivindc,dkcdnvvnfjcmmcdkn;v;kc;nv j;kjnv; jkn;"
+        android:textSize="20sp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="400dp"/>
 
 
 </FrameLayout>
